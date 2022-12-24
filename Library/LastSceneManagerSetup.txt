@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/PreparationForIndependent/Assets/Scenes/Menu.unity
+  isLoaded: 1
+  isActive: 1
